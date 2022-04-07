@@ -85,8 +85,14 @@ It creates the code needed in `server.js` to sync the Sequelize models to the My
 
 ## Screenshot(s) & Demo
 
+https://user-images.githubusercontent.com/99617307/162138074-399f9037-b325-4a80-9d45-e8c574bf4bd3.mp4
+<img width="1172" alt="Screen Shot 2022-04-06 at 11 56 22 PM" src="https://user-images.githubusercontent.com/99617307/162138927-c3027c5c-37f9-46a5-8fee-79cd017655ef.png">
+<img width="1172" alt="Screen Shot 2022-04-06 at 11 56 55 PM" src="https://user-images.githubusercontent.com/99617307/162138950-659ed4b5-1053-418f-bdee-21cb2a579e5d.png">
+<img width="1172" alt="Screen Shot 2022-04-06 at 11 57 12 PM" src="https://user-images.githubusercontent.com/99617307/162138977-1961eff7-5bb3-49b5-9056-fc69a04dc783.png">
+<img width="1172" alt="Screen Shot 2022-04-06 at 11 57 26 PM" src="https://user-images.githubusercontent.com/99617307/162139080-1dc93bff-8756-410f-85ab-ada0e769d7d9.png">
+
 ## Links
 
 - https://b2b-back-end.herokuapp.com/
 - https://github.com/zionremnant/b2b-backend
--
+- https://drive.google.com/file/d/1-RQeGibFxXyvbuK5xw7assvt-nuQ1Fv9/view
